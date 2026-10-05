@@ -1,0 +1,15 @@
+UVA*
+UVa*
+uva*
+*.swp
+*.pdf
+*.log
+*check
+*main*
+*.in
+*.out
+*cmp
+*test*
+.DS_Store
+*vimrc
+*.swo
