@@ -13,3 +13,5 @@ uva*
 .DS_Store
 *vimrc
 *.swo
+*.h
+sprout/
