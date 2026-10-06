@@ -11,3 +11,4 @@ The content includes PThreads, OpenMP, OpenCL, and CUDA.
 | 10110.c | OpenMP | Longest common subsequence | 2026/10/05 |
 | 10116.c | OpenMP | Order of matrix multiplication | 2026/10/05 |
 | 10117.c | OpenMP | Floyd-Warshall Algorithm | 2026/10/05 |
+| 10099.cu | CUDA | Dot Product | 2026/10/06 |
