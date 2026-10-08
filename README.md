@@ -14,3 +14,4 @@ The content includes PThreads, OpenMP, OpenCL, and CUDA.
 | 10099.cu | CUDA | Dot Product | 2026/10/06 |
 | 10100.cu | CUDA | Matrix Multiplication | 2026/10/07 |
 | 10101.cu | CUDA | Game of Life | 2026/10/07 |
+| 10087.c | OpenMP | Sparse Matrix Multiplication | 2026/10/08 |
