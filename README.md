@@ -6,6 +6,7 @@ The content includes PThreads, OpenMP, OpenCL, and CUDA.
 ## Progress
 | Program Name | Category | Description | Date |
 | --- | --- | --- | --- |
+| 10022.c | OpenMP | Matrix Multiplication | 2026/10/15 |
 | 10107.cu | CUDA | Sparse Matrix Multiplication | 2026/10/13 |
 | 10109\_bitonic.cu | CUDA | Bitonic sort | 2026/10/13 |
 | 10109\_mergesort.cu | CUDA | Merge sort | 2026/10/09 |
